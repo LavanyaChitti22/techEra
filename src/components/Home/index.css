@@ -1,0 +1,22 @@
+.loader-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.failure-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fail-img {
+  width: 200px;
+  height: 200px;
+}
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

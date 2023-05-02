@@ -1,0 +1,18 @@
+.ul-card {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+}
+.item-con {
+  display: flex;
+  flex-direction: row;
+}
+.name-con {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.de-img {
+  width: 100%;
+  height: 300px;
+}
