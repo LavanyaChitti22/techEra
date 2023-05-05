@@ -1,0 +1,20 @@
+.list-li {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  width: 150px;
+  margin-right: 80px;
+  margin-bottom: 50px;
+}
+.anchor-link {
+  text-decoration: none;
+}
+.item-image {
+  margin-right: 10px;
+}
+.item-para {
+  color: #475569;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+}
